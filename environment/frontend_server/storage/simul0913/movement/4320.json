@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Lim Chaewon": {
+      "movement": [
+        5,
+        4
+      ],
+      "pronunciatio": "\ud83d\udcbb\u2699\ufe0f",
+      "description": "Working on the new task management system @ the Ville:co-living space:classroom:classroom student seating",
+      "chat": null
+    },
+    "Seo Hyunil": {
+      "movement": [
+        7,
+        7
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udca4",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Kim Hyunjung": {
+      "movement": [
+        9,
+        9
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udca4",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Lim Jonguk": {
+      "movement": [
+        3,
+        4
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udca4",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Oh Seonghun": {
+      "movement": [
+        5,
+        4
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "developing financial models and forecasting economic outcomes (Review existing financial data and market reports) @ the Ville:co-living space:classroom:blackboard",
+      "chat": null
+    },
+    "Kang Sumin": {
+      "movement": [
+        7,
+        9
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:00:00"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Lim Chaewon": {
+    "maze": "the_ville",
+    "x": 9,
+    "y": 4
+  },
+  "Seo Hyunil": {
+    "maze": "the_ville",
+    "x": 9,
+    "y": 8
+  },
+  "Kim Hyunjung": {
+    "maze": "the_ville",
+    "x": 9,
+    "y": 9
+  },
+  "Lim Jonguk": {
+    "maze": "the_ville",
+    "x": 5,
+    "y": 4
+  },
+  "Oh Seonghun": {
+    "maze": "the_ville",
+    "x": 7,
+    "y": 11
+  },
+  "Kang Sumin": {
+    "maze": "the_ville",
+    "x": 7,
+    "y": 9
+  }
+}

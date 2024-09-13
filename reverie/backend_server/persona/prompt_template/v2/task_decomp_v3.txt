@@ -1,0 +1,34 @@
+task_decomp_v2.txt
+
+Variables: 
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Surrounding schedule description
+!<INPUT 2>! -- Persona first name
+!<INPUT 3>! -- Persona first name
+!<INPUT 4>! -- Current action
+!<INPUT 5>! -- curr time range
+!<INPUT 6>! -- Current action duration in min
+
+
+<commentblockmarker>###</commentblockmarker>
+Describe subtasks in 5 min increments. 
+
+---
+!<INPUT 0>!
+!<INPUT 1>!
+In 5 min increments, list the subtasks !<INPUT 2>! does when !<INPUT 3>! is !<INPUT 4>! from !<INPUT 5>! (total duration in minutes !<INPUT 6>!):
+{
+  "schedule": [
+    {
+      "duration": "X",
+      "remaining": "Y",
+      "task": "Task description"
+    },
+    {
+      "duration": "X",
+      "remaining": "Y",
+      "task": "Task description"
+    },
+    ...
+  ]
+}

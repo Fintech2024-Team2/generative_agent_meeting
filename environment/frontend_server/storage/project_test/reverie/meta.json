@@ -1,0 +1,16 @@
+{
+  "fork_sim_code": "project_test",
+  "start_date": "February 13, 2023",
+  "curr_time": "February 13, 2023, 05:00:00",
+  "sec_per_step": 5,
+  "maze_name": "the_ville",
+  "persona_names": [
+    "Lim Chaewon", 
+    "Seo Hyunil",
+    "Kim Hyunjung",
+    "Lim Jonguk",
+    "Oh Seonghun",
+    "Kang Sumin"
+  ],
+  "step": 0
+}

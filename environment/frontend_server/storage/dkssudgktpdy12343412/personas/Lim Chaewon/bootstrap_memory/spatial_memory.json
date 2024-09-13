@@ -1,0 +1,26 @@
+{
+  "the Ville": {
+    "co-living space": {
+      "hall": [
+      ]
+    }, 
+    "co-living space": {
+      "meeting room": [
+        "blackboard",
+        "bookshelf",
+        "classroom student seating"
+      ]
+    }, 
+    "co-living space": {
+      "bedroom": [
+        "bed1",
+        "bed2",
+        "bed3",
+        "bed4",
+        "bed5",
+        "bed6",
+        "common room sofa"
+      ]
+    }
+  }
+}

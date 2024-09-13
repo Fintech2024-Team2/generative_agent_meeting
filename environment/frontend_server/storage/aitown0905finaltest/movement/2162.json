@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Lim Chaewon": {
+      "movement": [
+        8,
+        4
+      ],
+      "pronunciatio": "\u2600\ufe0f\ud83e\udd38",
+      "description": "waking up and completing her morning routine (Wakes up and stretches) @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Seo Hyunil": {
+      "movement": [
+        9,
+        8
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecc",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Kim Hyunjung": {
+      "movement": [
+        9,
+        9
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Lim Jonguk": {
+      "movement": [
+        5,
+        4
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecc",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Oh Seonghun": {
+      "movement": [
+        10,
+        13
+      ],
+      "pronunciatio": "\u23f0\ud83d\udd15",
+      "description": "waking up and completing the morning routine (Wake up and turn off alarm) @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    },
+    "Kang Sumin": {
+      "movement": [
+        7,
+        9
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "sleeping @ the Ville:co-living space:bedroom:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:00:20"
+  }
+}
