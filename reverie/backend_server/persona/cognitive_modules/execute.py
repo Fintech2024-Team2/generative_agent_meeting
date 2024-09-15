@@ -89,10 +89,11 @@ def execute(persona, maze, personas, plan):
       # string form. <maze.address_tiles> takes this and returns candidate 
       # coordinates. 
       if plan not in maze.address_tiles: 
-        maze.address_tiles["the Ville:Johnson Park:park:park garden"] #ERRORRRRRRR
+        target_tiles = maze.address_tiles["the Ville:Johnson Park:park:park garden"] #ERRORRRRRRR
       else: 
         target_tiles = maze.address_tiles[plan]
 
+    print(f'DEBUG: plan target_tiles: {target_tiles}')
     # There are sometimes more than one tile returned from this (e.g., a tabe
     # may stretch many coordinates). So, we sample a few here. And from that 
     # random sample, we will take the closest ones. 
@@ -104,6 +105,8 @@ def execute(persona, maze, personas, plan):
     # headed to the same location on the maze. It is ok if they end up on the 
     # same time, but we try to lower that probability. 
     # We take care of that overlap here.  
+
+    print(f'DEBUG: plan target_tiles-1: {target_tiles}')
     persona_name_set = set(personas.keys())
     new_target_tiles = []
     for i in target_tiles: 
@@ -118,6 +121,7 @@ def execute(persona, maze, personas, plan):
       new_target_tiles = target_tiles
     target_tiles = new_target_tiles
 
+    print(f'DEBUG: new_target_tiles events: {target_tiles}')
     # Now that we've identified the target tile, we find the shortest path to
     # one of the target tiles. 
     curr_tile = persona.scratch.curr_tile
@@ -129,7 +133,6 @@ def execute(persona, maze, personas, plan):
       # an input, and returns a list of coordinate tuples that becomes the
       # path. 
       # e.g., [(0, 1), (1, 1), (1, 2), (1, 3), (1, 4)...]
-      
       curr_path = path_finder(maze.collision_maze, 
                               curr_tile, 
                               i, 
@@ -141,6 +144,7 @@ def execute(persona, maze, personas, plan):
         closest_target_tile = i
         path = curr_path
 
+    print(f'DEBUG: curr_path : {curr_path}')
     # Actually setting the <planned_path> and <act_path_set>. We cut the 
     # first element in the planned_path because it includes the curr_tile. 
     persona.scratch.planned_path = path[1:]
