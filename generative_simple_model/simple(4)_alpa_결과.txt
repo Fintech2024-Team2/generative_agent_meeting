@@ -1,0 +1,110 @@
+Toblen Stonehill Barthen's Provisions 9 I looked for supplies for the market. I also built relationships with people in town.
+Daran Edermath Phandalin Town Square 9 You met new people, talked about the happenings in Phandalin, and ate delicious food.
+Linene Graywind Tresendar Manor 9 Linene searched Tresendar Manor.
+Halia Thornton Alderleaf Farm 9 I met Sister Garaele. We had a coffee and chatted. I found Halia Thornton. She was there in Town Square as well. I then returned to the farm to chat with Qelline Alderleaf.
+Qelline Alderleaf The Sleeping Giant 9 Qelleine Alderleaf drank Gristas booze. Afterwards, Qelleine met up with Grista.
+Sister Garaele Alderleaf Farm 9 Sister Garaele talked with Halia Thornton and Sister Garaele to gain their support and collaboration in achieving peace and prosperity in Phandalin.
+Harbin Wester Phandalin Town Square 9 I met and talked with Daran Edermath, Harbin Wester and Terrill Bloodscar about my goals. We discussed the struggles of different characters, and then determined our plans for the next hour.
+Terrill Bloodscar Phandalin Town Square 9 Terrill approached Harbin Wester and explained why he thinks hes the best townmaster in the town. He promised to help him hide the stolen loot in the nearby forest.
+Conrad Scarface Townmaster’s Hall 9 Scarface robbed and murdered an adventurer and their companions tonight.
+Nellie Starsmith Phandalin Miner's Exchange 9 I observed people, engaged in conversation with Nellie Starsmith, looked for targets, and left.
+Valerie Grinblade Townmaster’s Hall 9 I took the notice as a challenge, aiming to gain entry to the Adventurers Coven. I had to travel through the nearby orc territories to find Conrad as hes planning to attend the gathering. After successfully entering, the town will reopen and all the orcs will be dead. I had to take back the town and its inhabitants from the orcs in order to survive. After achieving this, I fought my way into the Coven grounds and secured full membership for my organization.
+    - Emoji Representation: Toblen Stonehill Barthen's Provisions 9 A Action, Object Looked for Supplies for the Market, BUILT_RElationships with People in Town
+    - Emoji Representation: Daran Edermath Phandalin Town Square 9 ACT [Met new people], ACT [Talked about the happenings in Phandalin), ACT [Eated delicious food]
+    - Emoji Representation: Linene Graywind Tresendar Manor 9 Linnet Searched Tresendar Manor
+    - Emoji Representation: Halia Thornton Alderleaf Farm 9 I met Sister Garaele AT X AND Halia Thornton TO Y. I found Halia Thornton IN Y. I returned to the farm TO QELLINIE ALDDERLEAF AT FOUR.
+    - Emoji Representation: Qelline Alderleaf The Sleeping Giant 9 Qelleine Alderleaf -> Date, Grista -> Object, drank | met
+    - Emoji Representation: Sister Garaele Alderleaf Farm 9 Sister Garaele->Talked With Halia Thornton, Sister Garaele->Achieved Peace and Prosperity in Phandalin.
+    - Emoji Representation: Harbin Wester Phandalin Town Square 9 Action: met, talked, chosen plan Object: goals, nooutput>
+    - Emoji Representation: Terrill Bloodscar Phandalin Town Square 9 Terrill, Harbin Wester, Explained, Promised to help, Hide, Forest.
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 9 Scarface -> Robbed -> Murdered Adventurer -> Accused Companions -> Killed
+    - Emoji Representation: Nellie Starsmith Phandalin Miner's Exchange 9 action, object: observed, conversation, looked for, left.
+    - Emoji Representation: Valerie Grinblade Townmaster’s Hall 9 Achieved, Object Find Conrad (Object) Traveling, Object Taking back, Object Fighting, Object Securing full membership (Object) Ending, Object
+Toblen Stonehill Alderleaf Farm 10 I talked to Halia and told her that I needed supplies for my trading post.
+Daran Edermath Edermath Orchard 10 Daran interacts with Sister Garaele, Harbin and other people in Edermath Orchard to learn more about Phandalin and its people.
+Linene Graywind Townmaster’s Hall 10 Linene looked for supplies for her trading post.
+Halia Thornton Alderleaf Farm 10 I made time for fun and socializing in the Square. I struck up conversations with Toblen Stonehill, Halia Thornton, and Valerie Grinblade.
+Qelline Alderleaf Townmaster’s Hall 10 I chatted with Linene Graywind, Qelline Alderleaf, and Conrad Scarface.
+Sister Garaele Edermath Orchard 10 I attended to the needs of the people of Phandalin. I sought peace and prosperity through good communication. I utilized my Harper duties to protect the town. I stayed strong and resist temptations to give in to malicious actions. I was a catalyst for the positive change that the people of Phandalin need.
+Harbin Wester Edermath Orchard 10 I visited Daran Edermaths cottage and discussed the days events in a conversation. Sister Garaele, Daran, and I all exchanged addresses and conversation topics, with Daran introducing them to his next target.
+Terrill Bloodscar Shrine of Luck 10 Terrill Bloodscar prepared to attack the adventurers and steal their loot.
+Conrad Scarface Townmaster’s Hall 10 I observed and noting the people in Phandalin Town Square this evening, then visiting Qellines hayloft. At 11:00 PM, I plan to set off on a heist to steal from an adventurer and their companions.
+Nellie Starsmith The Sleeping Giant 10 In the next hour, Nellie interacted with the people of Phandalin Miners Exchange. She found out where their adventures took them and saw if she could lure them into becoming her targets.
+Valerie Grinblade Alderleaf Farm 10 I talked to Toblen and Halia, finding out what I could do for them to enter the Adventurers Coven. I will also try to enlist the help of your people at the farm.
+    - Emoji Representation: Toblen Stonehill Alderleaf Farm 10 Action: Talked to Halia, Tell her I needed supplies for my trading post.
+    - Emoji Representation: Daran Edermath Edermath Orchard 10 Daran  Interacts  Sister Garaele, Harbin  People in Edermath Orchard  Learns  About Phandalin, its people
+    - Emoji Representation: Linene Graywind Townmaster’s Hall 10 linene looked_for_supplies, trading_post.
+    - Emoji Representation: Halia Thornton Alderleaf Farm 10 Action: madeTimeForFunAndSocializing Object: conversations withToblen Stonehill, Halia Thornton, and Valerie Grinblade.
+    - Emoji Representation: Qelline Alderleaf Townmaster’s Hall 10 I chatted [Linene Graywind, Qelline Alderleaf, Conrad Scarface]
+    - Emoji Representation: Sister Garaele Edermath Orchard 10 L1 = Attend to the needs of the people of Phandalin x 2 Action: Pursue peace and prosperity x 3 Action: Utilize my Harper duties x 4 Action: Stay strong and resist temptations to give in to malicious actions x 5 Action: Catalyst for the positive change that the people of Phandalin need 6 Action: Resist malicious actions x 7 Action: Resist malicious actions x 8 Action: Stay strong and resist malicious actions x 10 Action: Resist malicious actions x 11 Action: Protect the town
+    - Emoji Representation: Harbin Wester Edermath Orchard 10 Action: Visited Daran Edermaths Cottage Object: Days events Conversation: Had with Sister Garaele, Daran, I Address: Daran Edermaths Cottage Object: Exchanged addresses and conversation topics, with Daran introducing them to his next target
+    - Emoji Representation: Terrill Bloodscar Shrine of Luck 10 Terrill Bloodscar, Prepared, Object, Attack, Object.
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 10 Action: observing, noting (Tuple object=people in Phandalin Town Square, to visit Qellines hayloft), 10:00 PM heist, 11.00 PM steal, adventurer, companions (Tuple object=adventurer, their companions), 19:30 PM heist, end. Note: None (Tuple object=the people in Phandalin).
+    - Emoji Representation: Nellie Starsmith The Sleeping Giant 10 Action: Interacted Object: People of Phandalin Miners Exchange
+    - Emoji Representation: Valerie Grinblade Alderleaf Farm 10 Action: talked, find out, help, people, farm.
+Toblen Stonehill Tresendar Manor 11 I moved westward to find supplies for the market.
+Daran Edermath Lionshield Coster 11 Daran Edermath met up with a group of local adventurers from the surrounding wilderness and discussed the latest threats and opportunities in the region before departing Lionshield Coster for an impromptu lunch with Toblen Stonehill, Sister Garaele, and Halia Thornton.
+Linene Graywind Phandalin Miner's Exchange 11 Linnet was determined to buy supplies for her trading post,.
+Halia Thornton Edermath Orchard 11 Hila enjoyed engaging in activities to meet new people, such as visiting the local baron to chat up his staff, attending the annual harvest festival to taste delicious local produce, and exploring the surrounding countryside to find new cultures.
+Qelline Alderleaf Phandalin Miner's Exchange 11 Gather info on the halfling goals for tomorrow.
+Sister Garaele Alderleaf Farm 11 I interact with Sister Garaele at Alderleaf Farm.
+Harbin Wester Phandalin Town Square 11 I spoke to Harbin Wester, follow up on interactions Ive had, make more connections.
+Terrill Bloodscar Tresendar Manor 11 Terrill Bloodscar planned and executed a daring ambush on the adventurers to steal their loot and then hide it in the nearby forest.
+Conrad Scarface Townmaster’s Hall 11 I took a break in the townmasters hall to rest my exhausted body and refocus. I checked around and made sure everyone was safe. I pondered on what I could do to rob and kill an adventurer and their companions.
+Nellie Starsmith Tresendar Manor 11 I snuck around Tresendar Manor and used the peoples relationships to my advantage. I robbed a shop and talked to the people in the rooms. I raided the castle and killed the guards. I explored Tresendar Manors cellar and chatted with its residents. I find out who owns the castle and what role each of them have in it. I then plan my next steps.
+Valerie Grinblade Tresendar Manor 11 In the next hour, I retraced my steps through the manor, encountering Redbrands, and engaging in conversations with Toblen, Terrill, and Nellie. Along the way, I also make use of my abilities to gather information on the manor.
+    - Emoji Representation: Toblen Stonehill Tresendar Manor 11 I : Moved westward Object: Supplies for the market ###
+    - Emoji Representation: Daran Edermath Lionshield Coster 11 Daran Edermath met, local adventurers nearby, discussed latest threats and opportunities, departing Lionshield Coster impromptu lunch, Toblen Stonehill, Sister Garaele w/ Halia Thornton.
+    - Emoji Representation: Linene Graywind Phandalin Miner's Exchange 11 Action: buy Object: supplies.|Result: Linnet was determined to buy supplies for her trading post.
+    - Emoji Representation: Halia Thornton Edermath Orchard 11 Hila visited local baron Chat up staff Attend annual harvest festival Taste delicious local produce Exploring surrounding countryside Find new cultures
+    - Emoji Representation: Qelline Alderleaf Phandalin Miner's Exchange 11 [Gather info on the halfling goals for tomorrow)
+    - Emoji Representation: Sister Garaele Alderleaf Farm 11 Action: interact Object: Sister Garaele
+    - Emoji Representation: Harbin Wester Phandalin Town Square 11 Action: spoke to Harbin Wester, follow up on interactions, make more connections.
+    - Emoji Representation: Terrill Bloodscar Tresendar Manor 11 Terrill Bloodscar - Planned, Executed - Ambush, Stole - Loot, Hide - Object nearby_forest - Loot, Stole
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 11 Action: taking a break Object: Townmasters Hall Action: checking around Object: people safe Action: pondering Object: to rob and kill an adventurer and their companions
+    - Emoji Representation: Nellie Starsmith Tresendar Manor 11 [snuck, robbed, raided, explored, explored, chatted, planmed]
+    - Emoji Representation: Valerie Grinblade Tresendar Manor 11 Action: Redbrands (1), Toblen (1), Terrill (1), Nellie (5), gather information (10)
+Toblen Stonehill Phandalin Miner's Exchange 12 I checked the various mines for supplies and had lunch with the other traders.
+Daran Edermath The Sleeping Giant 12 Daran Edermath spent the next hour talking to new people in the Sleeping Giant and gaining insights on what is happening in Phandalin. He would be able to share his memories of Phandalin and the people he meets and reflect on what he has learned.
+Linene Graywind Tresendar Manor 12 Linnet looked for supplies for her trading post in the next hour.
+Halia Thornton Phandalin Town Square 12 I engaged in conversation with Conrad Scarface.
+Qelline Alderleaf Alderleaf Farm 12 Kellin checked on the farming progress and asked the other halflings what their goals for the day were.
+Sister Garaele Alderleaf Farm 12 I continued to work towards bringing peace and prosperity to the people of Phandalin. I traveled out of Phandalin to meet those who were working towards the same goal. I also continued to work the Stonehill Inn to help pay for Terrill Bloodscars travel expenses. I visited Toblen Stonehill and explored his past, while also continuing to help Toblen build a better future. I also helped people in the area learn about the Harper Agents and fight to stop them.
+Harbin Wester Tresendar Manor 12 I visited Terrill Bloodscar and gained insight on the Redbrand ruffians and their activities. I took up the opportunity to engage further with Nellie Starsmith, and discussed further plans for the day. I went to Phandalin Town Square and met the Redbrand ruffians in person.
+Terrill Bloodscar Tresendar Manor 12 I entered Tresendar Manor and searched its cellars for the adventurers’ loot. I observed them carefully and assessed their situation before making any decisions. After that, I hidden the stolen loot in the nearby forest.
+Conrad Scarface Phandalin Town Square 12 Conrad Scarface entered Phandalin Town Square and began robbery and murder operations. He started at 12:00.
+Nellie Starsmith Tresendar Manor 12 I started to make use of the gathered information. I interacts with people in the square. I arouse suspicion among some, and eventually make an attempt to target a particular person. I encounter Linenes trading post. The townmaster appear, who gives Nellie a rundown of the situation and a warning to be on the lookout for a target who does not follow the rules. Nellie enters the manor, finds the barracks, and takes the opportunity to stalk and recruit the target.
+Valerie Grinblade Townmaster’s Hall 12 Find out who the reward is. Go to the townmasters hall and meet Toblen Stonehill. Show him the warning. Tell him you want to join the Adventurers Coven despite the risks and help him reach his goals.
+    - Emoji Representation: Toblen Stonehill Phandalin Miner's Exchange 12 Action: Checked mines, had lunch, traders
+    - Emoji Representation: Daran Edermath The Sleeping Giant 12 Daran Edermath -> Talk, New People, Get Insights, Share Memories, Reflect, Learn.
+    - Emoji Representation: Linene Graywind Tresendar Manor 12 Action: looked for Supplies Object: supplies
+    - Emoji Representation: Halia Thornton Phandalin Town Square 12 Action: Engaged, Object: Conrad Scarface.
+    - Emoji Representation: Qelline Alderleaf Alderleaf Farm 12 Kellin checked>, asked>
+    - Emoji Representation: Sister Garaele Alderleaf Farm 12 Action: Continue to work towards bringing peace and prosperity to the people of Phandalin. Action Object: Travel out of Phandalin to meet those who were working towards the same goal. Action Object: Work the Stonehill Inn to help pay for Terrill Bloodscars travel expenses. Action Object: Visit Toblen Stonehill and explore his past, while also continuing to help Toblen build a better future. Action Object: Help people in the area learn about the Harper Agents and fight to stop them.
+    - Emoji Representation: Harbin Wester Tresendar Manor 12 Terrill Bloodscar, Nellie Starsmith, Phandalin Town Square, Redbrand ruffians
+    - Emoji Representation: Terrill Bloodscar Tresendar Manor 12 Action: entered Tresendar Manor; Object: lost loot; Observed adventurers; Assessed situation.; Hidden loot. (Action + Object + Object + Object + Action + Action + Object + Object + Action + Action).
+    - Emoji Representation: Conrad Scarface Phandalin Town Square 12 Action: entered, Phandalin Town Square Action: robbery, murder Date: 12:00
+    - Emoji Representation: Nellie Starsmith Tresendar Manor 12 [Action, Object]
+    - Emoji Representation: Valerie Grinblade Townmaster’s Hall 12 [Found out who the reward is, Go to the townmasters hall and meet Toblen Stonehill, Show him the warning, Tell him you want to join the Adventurers Coven despite the risks and help him reach his goals.]
+Toblen Stonehill Lionshield Coster 13 I searched for supplies. I met Sister Garaele.
+Daran Edermath Townmaster’s Hall 13 I talked to Daran and Halia about the orc menace and found out about Nellies plans.
+Linene Graywind Barthen's Provisions 13 Linene made sure to buy the supplies necessary to run her trading post.
+Halia Thornton Townmaster’s Hall 13 I had fun in the Square, made new friends, and explored the pasts of the people in the square.
+Qelline Alderleaf Edermath Orchard 13 In the next hour, I met with the other halflings.
+Sister Garaele Lionshield Coster 13 I talked to Toblen Stonehill and Sister Garaele about their roles in the peace process and how you can help them.
+Harbin Wester The Sleeping Giant 13 Harbin Wester had lunch with Harbin Wester, then discussed his plans for the night with Valerie Grinblade.
+Terrill Bloodscar Barthen's Provisions 13 Terrill Bloodscar attacked the adventurers for their loot. He then hidden the loot in the nearby forest.
+Conrad Scarface Barthen's Provisions 13 I robbed and killed an adventurer and their companions in the next hour.
+Nellie Starsmith Townmaster’s Hall 13 Nell made a rounds of the town at 13:00, evaluating each persons presence and conversation for potential targets.
+Valerie Grinblade The Sleeping Giant 13 Valerie met with Harbin Wester to discuss progress toward becoming an Adventurers Coven member.
+    - Emoji Representation: Toblen Stonehill Lionshield Coster 13 Search, Object: Supplies. Meet, Object: Sister Garaele.
+    - Emoji Representation: Daran Edermath Townmaster’s Hall 13 Action: Talked to Daran and Halia Object: Orc menace, Nellies plans.
+    - Emoji Representation: Linene Graywind Barthen's Provisions 13 Linene: buy Supplies, necessary to run her trading post.
+    - Emoji Representation: Halia Thornton Townmaster’s Hall 13 Action(At the Square): Had fun, made new friends, explored the pasts of the people around
+    - Emoji Representation: Qelline Alderleaf Edermath Orchard 13 Action: met Object: other halflings
+    - Emoji Representation: Sister Garaele Lionshield Coster 13 I talked, to Bleken Stonehill, Sister Garaele about their roles in the peace process and how you can help them.
+    - Emoji Representation: Harbin Wester The Sleeping Giant 13 Harbin Wester [action, Object]: - Had lunch [action], - Discussed plans [object], - with Harbin Wester; - After lunch, - with Valerie Grinblade.
+    - Emoji Representation: Terrill Bloodscar Barthen's Provisions 13 Terrill Bloodscar: Attacked (Object) Adventurers: Loot Hidden (Object)
+    - Emoji Representation: Conrad Scarface Barthen's Provisions 13 Action: robbed, killed Object: adventurer, their companions NextHour: next.
+    - Emoji Representation: Nellie Starsmith Townmaster’s Hall 13 Nell Rounds, Object (evaluating) => [rounds of the town, object (target)]
+    - Emoji Representation: Valerie Grinblade The Sleeping Giant 13 Action: met, Object: Harbin Wester, discussion
