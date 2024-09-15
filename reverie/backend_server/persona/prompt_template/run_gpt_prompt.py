@@ -2600,7 +2600,7 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
   prompt = generate_prompt(prompt_input, prompt_template)
   print (prompt)
   fail_safe = get_fail_safe() 
-  output = Gemini_safe_generate_response(prompt, 3, fail_safe,
+  output = Gemini_safe_generate_response_OLD(prompt, 3, fail_safe,
                         __chat_func_validate, __chat_func_clean_up, verbose)
   print (output)
   
