@@ -1,0 +1,110 @@
+Toblen Stonehill Alderleaf Farm 9 I made contact with Toblen Stonehill and enquired about the current status of the town and nearby buildings. I also investigated the possibility of hosting a meeting with Toblen Stonehill to discuss potential opportunities for starting a new business in Phandalin.
+Daran Edermath Tresendar Manor 9 Daran Edermath explored Tresendar Manor and met Terrill Bloodscar.
+Linene Graywind Shrine of Luck 9 Linene entered the shrine of luck with a hope of making some sales.
+Halia Thornton Townmaster’s Hall 9 I engaged in conversations with Halia, Qelline, and Conrad. I planned to meet the innkeeper and arrange a meeting between myself, the town’s leaders, and the townsfolk. We discussed strategies to increase the safety of the area, such as arming the miners or luring members of the Redbrand. We had a long, hard struggle, but eventually, the Redbrand were defeated.
+Qelline Alderleaf Townmaster’s Hall 9 I have an hour until town meeting starts. I greet Halia and talk a bit more with Qelline.
+Sister Garaele Shrine of Luck 9 I must contact Qelline and find out the identity of the current Harper agent in Phandalin. To do this, I must collect evidence from Linene and attempt to obtain a security clearance for her. I may also contact Linene’s business partner, Linene Graywind, to obtain additional information which could help uncover the Harper agent. Finally, I must obtain a security clearance for Valerie and take her to the Harper agent’s headquarters, if possible.
+Harbin Wester Phandalin Town Square 9 At 9:00, Harbin Wester explained to me how to help the people of Phandalin solve their issues.
+Terrill Bloodscar Tresendar Manor 9 Terrill Bloodscar: Talk to Daran Edermath and Terrill...
+Conrad Scarface Townmaster’s Hall 9 I headed out to the nearby mines.
+Nellie Starsmith Barthen's Provisions 9 Nille went to Barthens and purchased items for the Redbrand ruffians and hides out in the kitchen area.
+Valerie Grinblade Shrine of Luck 9 I continued to observe and wait for the right moment.
+    - Emoji Representation: Toblen Stonehill Alderleaf Farm 9 ACT: made contact; OBJECT: enquired; ARTICULATE: hosted meeting; SUGGEST: discuss OPPORTUNITIES FOR INTEREST FOR NEXT BUILDING; START, MAINTAIN, FINANCE NECESSARY TO PLACE SECOND BUILDING;
+    - Emoji Representation: Daran Edermath Tresendar Manor 9 Daran Edermath P. explored Tresendar Manor V. met
+    - Emoji Representation: Linene Graywind Shrine of Luck 9 linede entered luck, hopeofmakingsomesales.
+    - Emoji Representation: Halia Thornton Townmaster’s Hall 9 Action: Engaged in conversations with Halia, Qelline, and Conrad. Object: Planted to meet the innkeeper. Action: Arranged a meeting between myself, the towns leaders, and the townsfolk. Action: Discussed strategies to increase the safety of the area, such as arming the miners or luring members of the Redbrand. Object: Redbrand were defeated.
+    - Emoji Representation: Qelline Alderleaf Townmaster’s Hall 9 Tuple (Action, Object): Greet, Talk.
+    - Emoji Representation: Sister Garaele Shrine of Luck 9 Action: collect evidence, obtain clearance, take Valerie to Harper agent’s headquarters, if possible Action: contact Qelline, get evidence, take Valerie to Harper agent’s headquarters
+    - Emoji Representation: Harbin Wester Phandalin Town Square 9 Action: explained -> Object: help
+    - Emoji Representation: Terrill Bloodscar Tresendar Manor 9 Action: Talk Object: Daran Edermath Object: Terrill Bloodscar Description: I talk to Daran Edermath and Terrill...
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 9 Action: headed, Object: nearby mines.
+    - Emoji Representation: Nellie Starsmith Barthen's Provisions 9 Nille - went - to Barthens - purchased - items for - Redbrand ruffians - hides - out in the kitchen area
+    - Emoji Representation: Valerie Grinblade Shrine of Luck 9 Action: continued, Object: observation, waiting (Action: right moment)
+Toblen Stonehill Alderleaf Farm 10 I will continue examining the crime situation in Phandalin, gathering new information and engaging in conversations with the existing NPCs and town residents to further my goals. I will seek out the Redbrand ruffian Terrill Bloodscar, who has been stealing from the trading post.
+Daran Edermath Townmaster’s Hall 10 I explored Tresendar Manor and Halia Thornton’s trading post, met Conrad Scarface and Valerie Grinblade, and explored the town.
+Linene Graywind Lionshield Coster 10 I worked on increasing the visibility of my trading post and preparing for the upcoming battle.
+Halia Thornton Townmaster’s Hall 10 Hala went to hunt for the orcs in the woods behind Townmasters Hall.
+Qelline Alderleaf Townmaster’s Hall 10 Quilline took the information about the orc menace from the board in Townmaster’s Hall and used it to talk to the other people present.
+Sister Garaele Shrine of Luck 10 I asked Qelline what the Harper agents were up to in the next hour.
+Harbin Wester Phandalin Town Square 10 Harbin Wester set an ambitious yet achievable goal: to help the people of Phandalin solve their issues by 8:00pm today.
+Terrill Bloodscar Alderleaf Farm 10 Terrill Bloodscar explored the area at 10PM.
+Conrad Scarface Townmaster’s Hall 10 I set out for the Townmasters Hall at 10:30.
+Nellie Starsmith Tresendar Manor 10 I should have been observing all the people in Tresendar Manor and in Phandalin Town Square to identify potential targets.
+Valerie Grinblade Townmaster’s Hall 10 I watched Phandalin Town Square and moved to Townmasters Hall. Engaged with the various people in the hall, learned about each of their backgrounds, and plotted to take down adventurers.
+    - Emoji Representation: Toblen Stonehill Alderleaf Farm 10 Action: Continue Examining the Crime Situation in Phandalin; Object: Terrill Bloodscar; Objective: Redbrand ruffian
+    - Emoji Representation: Daran Edermath Townmaster’s Hall 10 Explored Tresendar Manor [Object Tresendar Manor], Halia Thornton’s Trading Post [Object Halia Thornton’s Trading Post], met Conrad Scarface, Valerie Grinblade [Object Grenada], Explored the town [Object Grenada].
+    - Emoji Representation: Linene Graywind Lionshield Coster 10 Action -> Increase visibility of trading post Object -> Prepare for the upcoming battle
+    - Emoji Representation: Halia Thornton Townmaster’s Hall 10 Hla Gt hnk oorcs n woods Bnk  Townmasters Hall.
+    - Emoji Representation: Qelline Alderleaf Townmaster’s Hall 10 Quinline A, Board T taken T o the Orc Nemesis  (The Object of the action is information)
+    - Emoji Representation: Sister Garaele Shrine of Luck 10 I Asked Qelline, Harper Agents Up to In Next Hour.
+    - Emoji Representation: Harbin Wester Phandalin Town Square 10 Action: Set Object: Help people of Phandalin solve their issues by 8:00pm today.
+    - Emoji Representation: Terrill Bloodscar Alderleaf Farm 10 A.Explore B. 10PM
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 10 Action: Set out, Object: Townmasters Hall, Time: 10:30.
+    - Emoji Representation: Nellie Starsmith Tresendar Manor 10 Action: Observing Object: People in Tresendar Manor, Phandalin Town Square
+    - Emoji Representation: Valerie Grinblade Townmaster’s Hall 10 Action: watched Phandalin Town Square, moved to Townmasters Hall Action: Engaged with people in the hall, learnt about their backgrounds, plotted to take down adventurers
+Toblen Stonehill Shrine of Luck 11 Toblen discussed his next steps with Terrill to find out the whereabouts of the missing comrade.
+Daran Edermath The Sleeping Giant 11 I plan to hang out with Daran, Halia and Harbin. During my conversations with them I find out more about the town and discuss my plans for finding the Phandalin Market.
+Linene Graywind Tresendar Manor 11 Linene remained in Tresendar Manor until 12:00. Then she headed back to Lionshield Coster accompanied by the Redbrand guards.
+Halia Thornton The Sleeping Giant 11 I had a conversation with Hala, Harbin, and Quilline about their respective goals and what they are looking for in the Miners Exchange.
+Qelline Alderleaf Townmaster’s Hall 11 Kelline met Conrad tomorrow on the roof of the old town hall for a chat about new developments.
+Sister Garaele Barthen's Provisions 11 I spoke with Sister Garaele to gain valuable insight into the Harper agents operating in Phandalin.
+Harbin Wester The Sleeping Giant 11 I engage in further conversations with Daran and Halia to further build trust and understanding between me and the people of Phandalin. I also take steps to ensure all of Phandalin can enjoy a prosperous and safe future.
+Terrill Bloodscar Shrine of Luck 11 I asked Toblen Stonehill if he can help me find a way out of Shrine of Luck.
+Conrad Scarface Townmaster’s Hall 11 I stole a large sum of gold.
+Nellie Starsmith Stonehill Inn 11 Nille met up with other Redbrand ruffians and plotted to terrorize Phandalin.
+Valerie Grinblade Lionshield Coster 11 I used my newfound reputation to capture as many adventurers as possible. I robbed, and murdered them. If I captured all Adventurers within an hour, I became the proud owner of a bustling ally.
+    - Emoji Representation: Toblen Stonehill Shrine of Luck 11 Toblen, Terrill, FindOutWhereaboutsOfMissingComrade.
+    - Emoji Representation: Daran Edermath The Sleeping Giant 11 [Plan to hang out with Daran, Halia and Harbin, Discuss Phandalin Market with them, find out more about the town, discuss plans for finding the Phandalin Market]
+    - Emoji Representation: Linene Graywind Tresendar Manor 11 [action, object] // noinput>
+    - Emoji Representation: Halia Thornton The Sleeping Giant 11 Action: Had a conversation Objects: Hala, Harbin, Quilline
+    - Emoji Representation: Qelline Alderleaf Townmaster’s Hall 11 [Kelline met Conrad tomorrow on the roof of the old town hall for a chat about new developments.]
+    - Emoji Representation: Sister Garaele Barthen's Provisions 11 Action: spoke, Object: insight, Harper agents, Phandalin.
+    - Emoji Representation: Harbin Wester The Sleeping Giant 11 Action: Engage in further conversations with Daran and Halia Object: build trust and understanding between me and the people of Phandalin Description: I also take steps to ensure all of Phandalin can enjoy a prosperous and safe future
+    - Emoji Representation: Terrill Bloodscar Shrine of Luck 11 Action: Ask Toblen Stonehill Object: find a way out of Shrine of Luck.
+    - Emoji Representation: Conrad Scarface Townmaster’s Hall 11 Action: Stole Object: large sum of gold
+    - Emoji Representation: Nellie Starsmith Stonehill Inn 11 Nille: met, Redbrand: ruffians, Phandalin: terrorized
+    - Emoji Representation: Valerie Grinblade Lionshield Coster 11 Action [Capture, Robbed, Murded] Object [Adventurers]
+Toblen Stonehill Phandalin Town Square 12 I opened my new business in the town.
+Daran Edermath Barthen's Provisions 12 I explored the Phandalin Market. I spoke to people and learned about the town. I relaxed in the sunshine.
+Linene Graywind Edermath Orchard 12 I should focus on making more sales from the trading post in the next hour. I can do this by offering various discounts or promotions. I can also look for new ways to approach potential customers to build a following. If I find a way to get closer to my targeted customers, I can increase the total number of sales.
+Halia Thornton Shrine of Luck 12 I exchanged friendly conversation, explored the shrine, and joined the hunt for the Redbrand ruffians.
+Qelline Alderleaf Lionshield Coster 12 Nell had visited Qualines house and talked to her.
+Sister Garaele Tresendar Manor 12 I made use of my knowledge of the people at Tresendar Manor to gain insights on the Harper agents. I gave some of this information to the townmaster, who acted as a mediator between myself and the rest of the group. Furthermore, by interacting with her, I gained insight into the Redbrand leader, Conrad Scarface. I created a plan of action that would be effective in defeating Scarface. I also needed to find out about Harbin Wester, the townmaster in charge.
+Harbin Wester Tresendar Manor 12 Harbin Wester: Talk to Sister Garaele, Harbin Wester. Discuss your goals for the day. Harbin Wester: Become a mentor for the people of Phandalin. Harbin Wester: Use your knowledge of the Redbrands to help Phandalin recover from their current struggles. Harbin Wester: Help the people of Phandalin create a brighter future. Harbin Wester: Encounter the Redbrands and reclaim Phandalin.
+Terrill Bloodscar Edermath Orchard 12 I should talk to Linene and Terrill and make a plan to stop Conrad Scarface from succeeding on his own.
+Conrad Scarface Tresendar Manor 12 Conrad waited until 12:01 pm to capture the first adventurer. The goal is to bring in a party of 3-5 adventurers, and use the treasure they gain to fund the Redbrand aquest.
+Nellie Starsmith Lionshield Coster 12 I left Lionshield Coster by 1:00 PM and headed to Stonehill Inn to take your money and talk to Qelline Alderleaf about my plans for Phandalin.
+Valerie Grinblade Shrine of Luck 12 I took out the adventurers before they could disrupt the balance of power.
+    - Emoji Representation: Toblen Stonehill Phandalin Town Square 12 Action: opened Object: new business Description: I opened my new business in the town.
+    - Emoji Representation: Daran Edermath Barthen's Provisions 12 Action: Explored; Object: Phandalin Market; Action: Spoke to people; Object: Town; Action: Relaxed in sunshine.
+    - Emoji Representation: Linene Graywind Edermath Orchard 12 Action: Making more sales Object: trading post
+    - Emoji Representation: Halia Thornton Shrine of Luck 12 I exchanged friendly conversation, explored the shrine, joined the hunt for the Redbrand ruffians.
+    - Emoji Representation: Qelline Alderleaf Lionshield Coster 12 Nell, visit, Qualines, talk.
+    - Emoji Representation: Sister Garaele Tresendar Manor 12 Action: Gain Insights - Tresendar Manor | Interact with Townmaster Information: Gained Gain Insights - Harper Agents | The Redbrand Leader: Conrad Scarface | Plan of Action: Effective, Harbin Wester | Townmaster In Charge
+    - Emoji Representation: Harbin Wester Tresendar Manor 12 Harbin Wester - Talk to Sister Garaele - Discuss your goals for the day - Become a mentor for the people of Phandalin - Use your knowledge of the Redbrands - Help Phandalin - Create a brighter future - Encounter the Redbrands - Reclaim Phandalin
+    - Emoji Representation: Terrill Bloodscar Edermath Orchard 12 Action: Talk to Linene, Terrill Object: Stop Conrad Scarface from succeeding on his own
+    - Emoji Representation: Conrad Scarface Tresendar Manor 12 Conrad, At 12:01 pm, Captured first adventurer, Objective to Bring in party of 3-5 adventurers, Object treasure to fund Redbrand Aquest
+    - Emoji Representation: Nellie Starsmith Lionshield Coster 12 I left Lionshield Coster by 1:00 PM and headed to Stonehill Inn to take your money and talk to Qelline Alderleaf about my plans for Phandalin
+    - Emoji Representation: Valerie Grinblade Shrine of Luck 12 Action: took Out Object: adventurers
+Toblen Stonehill Alderleaf Farm 13 I planned to set up a tent and sell wares at the barn at Alderleaf Farm in the next hour.
+Daran Edermath Alderleaf Farm 13 Daran Edermath will spend the next hour exploring the Phandalin Market and its surroundings. He may chat to Toblen Stonehill and Nellie Starsmith about the town.
+Linene Graywind Tresendar Manor 13 I set out to find evidence against Valerie Grinblade.
+Halia Thornton Phandalin Miner's Exchange 13 I engaged in social conversations with the other people in town and grew the Miners Exchange.
+Qelline Alderleaf Phandalin Town Square 13 Qelline had lunch with Qelline Alderleaf and talked about what was going on in the town. She may talk about farming, the army, or the orcs. In the evening, she went to one of the Inns to explore the town further, to meet the people and gain insight into their lives. Afterward, she returned to Phandalin Town Square, where she had a chance to chat with others looking to learn more about the people or learn more about the situation.
+Sister Garaele Tresendar Manor 13 I went back to Barthens Provisions. I visited Harbin Wester to discuss my search.
+Harbin Wester Tresendar Manor 13 I encountered Sister Garaele and Linene Graywind, and encouraged them to follow my lead. I was impressed by the hard work they had put into the restoration of the manor and his desire to help the people of Phandalin. I also had a chance to tell them about the Redbrands’ involvement and proposed that they might be able to help by recapturing Necroryth, and the Redbrands declined, but Harbin remained hopeful that he and the people of Phandalin could rebuild their home and prosper afterwards.
+Terrill Bloodscar Townmaster’s Hall 13 I robbed the villagers at Edermath Orchard.
+Conrad Scarface Edermath Orchard 13 Conrad went to Tresendar Manor and found out who was there. He stole their money and killed their guards, then returned to Edermath Orchard to bring the adventurers to justice. ####
+Nellie Starsmith Alderleaf Farm 13 Assembled my crew and set off.
+Valerie Grinblade Lionshield Coster 13 I started an ambush at the Shrine of Luck.
+    - Emoji Representation: Toblen Stonehill Alderleaf Farm 13 Action: Set up a tent Object: wares Input: next_hour Description: I planned to set up a tent and sell wares at the barn At Alderleaf Farm
+    - Emoji Representation: Daran Edermath Alderleaf Farm 13 Daran Edermath -> Explore Phandalin Market and its surroundings. -> Chat to Toblen Stonehill and Nellie Starsmith about the town. -> End.
+    - Emoji Representation: Linene Graywind Tresendar Manor 13 Action: set out Object: evidence against Valerie Grinblade
+    - Emoji Representation: Halia Thornton Phandalin Miner's Exchange 13 Engage in social conversations, Grow the Miners Exchange
+    - Emoji Representation: Qelline Alderleaf Phandalin Town Square 13 [Qelline had lunch, qelline Alderleaf] [In the evening, went to one of the Inns, raised the dragon, caught a band of dwarves]
+    - Emoji Representation: Sister Garaele Tresendar Manor 13 I: Ate, Barthens Provisions II: Visited, Harbin Wester III: Discuss my search.
+    - Emoji Representation: Harbin Wester Tresendar Manor 13 Action 1: Encounter Sister Garaele and Linene Graywind, and encourage them to follow my lead. Action 2: Impressive by the hard work they had put into the restoration of the manor and his desire to help the people of Phandalin. Action 3: Proposed that they might be able to help by recapturing Necroryth, and the Redbrands declined. Action 4: Harbin remained hopeful that he and the people of Phandalin could rebuild their home and prosper afterwards.
+    - Emoji Representation: Terrill Bloodscar Townmaster’s Hall 13 Action: Robbed Object: villagers at Edermath Orchard.
+    - Emoji Representation: Conrad Scarface Edermath Orchard 13 Conrad | Action Tresendar Manor | Locate | Steal guards | Return to Edermath Orchard | Compromise
+    - Emoji Representation: Nellie Starsmith Alderleaf Farm 13 Action, Object: Assembled crew, set off.
+    - Emoji Representation: Valerie Grinblade Lionshield Coster 13 Action: started Object: Shrine of Luck
